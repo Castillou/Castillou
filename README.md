@@ -10,7 +10,7 @@ If you want to contact me, please leave me a message or e-mail! 📧
 
 ### Blog ✍🏻
 <div>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF&link=https%3A%2F%2Fvelog.io%2F%40castillou%2Fposts" />
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF&link=https://velog.io/@castillou/posts" />
 </div>
 
 ### My Tech Stack 🧩
