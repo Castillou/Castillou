@@ -1,6 +1,4 @@
-# Hi there! This is Sean's Github.  😁
-Good day! I'm Sean who is interested in Front-end Development from South Korea. And my Korean name is Sungwoo Chon. :)
-If you want to contact me, please leave me a message or e-mail! 📧
+프론트엔드 개발자 전성우입니다 🧐
 
 ### FrontEnd Developer 💻
 
@@ -10,7 +8,9 @@ If you want to contact me, please leave me a message or e-mail! 📧
 
 ### Blog ✍🏻
 <div>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF&link=https://velog.io/@castillou/posts" />
+  <a href="https://velog.io/@castillou/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF&link=https://velog.io/@castillou/posts" />
+  </a>
 </div>
 
 ### My Tech Stack 🧩
