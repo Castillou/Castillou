@@ -8,6 +8,11 @@ If you want to contact me, please leave me a message or e-mail! 📧
 - 🔥 새로운 기술을 두려워하지 않는 개발자
 - 🔥 협업을 위해 부족한 점은 스스로 채워나가는 개발자
 
+### Blog ✍🏻
+<div>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF&link=https%3A%2F%2Fvelog.io%2F%40castillou%2Fposts" />
+</div>
+
 ### My Tech Stack 🧩
 <div>
   <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
