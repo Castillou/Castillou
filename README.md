@@ -5,7 +5,7 @@
 
 ### Blog ✍🏻
 <div>
-  <a href="https://velog.io/@castillou/posts">
+  <a href="https://velog.io/@castillou/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF&link=https://velog.io/@castillou/posts" />
   </a>
 </div>
