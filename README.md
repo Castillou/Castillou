@@ -18,14 +18,15 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=FFFFFF" /> 
 </div>
 
 ### Studying 🔎
 <div>
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/NextJs-%20%23000000?style=for-the-badge&logo=Next.js&logoColor=white" />
 </div>
 
 ### Tools 🛠️
