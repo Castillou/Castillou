@@ -34,8 +34,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%23001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23330000?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 <div/>
 
   
