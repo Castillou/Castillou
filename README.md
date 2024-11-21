@@ -6,27 +6,27 @@
 ### Blog ✍🏻
 <div>
   <a href="https://velog.io/@castillou/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF&link=https://velog.io/@castillou/posts" />
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF&link=https://velog.io/@castillou/posts" />
   </a>
 </div>
 
 ### My Tech Stack 🧩
 <div>
-  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=20232A" />
+  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=20232A" />
 </div>
 <div>
-  <img src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Styled%20Components-DB7093.svg?style=flat&logo=styled-components&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=FFFFFF" /> 
+  <img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Styled%20Components-DB7093.svg?style=flat-square&logo=styled-components&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=FFFFFF" /> 
 </div>
 
 ### Studying 🔎
 <div>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/NextJs-%20%23000000?style=flat&logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/NextJs-%20%23000000?style=flat-square&logo=Next.js&logoColor=white" />
 </div>
 
 ### Tools 🛠️
