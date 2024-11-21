@@ -12,30 +12,30 @@
 
 ### My Tech Stack 🧩
 <div>
-  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232A" />
+  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=20232A" />
 </div>
 <div>
-  <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Styled%20Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=FFFFFF" /> 
+  <img src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Styled%20Components-DB7093.svg?style=flat&logo=styled-components&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=FFFFFF" /> 
 </div>
 
 ### Studying 🔎
 <div>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/NextJs-%20%23000000?style=for-the-badge&logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/NextJs-%20%23000000?style=flat&logo=Next.js&logoColor=white" />
 </div>
 
 ### Tools 🛠️
 <div>
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%23001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23330000?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%23001E36?style=flat&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23330000?style=flat&logo=adobeillustrator&logoColor=white" />
 <div/>
 
   
