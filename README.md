@@ -25,6 +25,7 @@
 
 ### Studying 🔎
 <div>
+  <img src="https://img.shields.io/badge/Typescript-%233178C6?style=flat-square&logo=Typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/NextJs-%20%23000000?style=flat-square&logo=Next.js&logoColor=white" />
 </div>
