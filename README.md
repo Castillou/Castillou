@@ -32,9 +32,9 @@
 
 ### Tools 🛠️
 <div>
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/adobe%20photoshop-%23001E36?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23330000?style=flat-square&logo=adobeillustrator&logoColor=white" />
 <div/>
