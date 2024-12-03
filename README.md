@@ -12,11 +12,7 @@
 
 ### My Tech Stack 🧩
 <div>
-  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=20232A" />
-</div>
-<div>
   <img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093.svg?style=flat-square&logo=styled-components&logoColor=FFFFFF" />
