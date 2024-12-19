@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:005AA7,100:FFFDE4&text=Sung-Woo%20Jeon&section=header&reversal=false&desc=Everything%20you%20want%20is%20on%20the%20other%20side%20of%20fear.&descAlign=55&descAlignY=69&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:005AA7,100:FFFDE4&text=Sung-Woo%20Jeon.&fontColor=E9E4F0&section=header&reversal=false&desc=Everything%20you%20want%20is%20on%20the%20other%20side%20of%20fear.&descAlign=55&descAlignY=69&textBg=false)
 
 ### Blog ✍🏻
 <div>
