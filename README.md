@@ -1,8 +1,6 @@
-# 프론트엔드 개발자 전성우입니다 🧐
-- 지속적으로 성장하는 개발자
-- 새로운 기술을 두려워하지 않는 개발자
-- 끈기있게 파고드는 개발자
+[header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sung-Woo%20Jeon&section=header&reversal=false&desc=Everything%20you%20want%20is%20on%20the%20other%20side%20of%20fear.&descAlign=55&descAlignY=69&textBg=false)
 
+<br />
 ### Blog ✍🏻
 <div>
   <a href="https://velog.io/@castillou/posts">
