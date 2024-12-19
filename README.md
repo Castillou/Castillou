@@ -1,6 +1,6 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sung-Woo%20Jeon&section=header&reversal=false&desc=Everything%20you%20want%20is%20on%20the%20other%20side%20of%20fear.&descAlign=55&descAlignY=69&textBg=false)
 
-<br />
 ### Blog ✍🏻
 <div>
   <a href="https://velog.io/@castillou/posts">
@@ -33,6 +33,6 @@
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23330000?style=flat-square&logo=adobeillustrator&logoColor=white" />
 <div/>
 
-  
+<div/>
 
   
