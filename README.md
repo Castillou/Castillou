@@ -23,9 +23,9 @@
 
 ### Studying
 <div>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=764ABC&labelColor=e0e0e0" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=MongoDB&logoColor=%2347A248&labelColor=e0e0e0" />
   <img src="https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=Express&logoColor=%23000000&labelColor=e0e0e0" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=764ABC&labelColor=e0e0e0" />
   <img src="https://img.shields.io/badge/NextJs-%20%23000000?style=flat-square&logo=Next.js&logoColor=%20%23000000&labelColor=e0e0e0" />
 </div>
 
