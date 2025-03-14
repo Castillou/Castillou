@@ -19,6 +19,7 @@
 <div>
   <img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=%234FC08D&labelColor=f9f9f9" />
+  <br>
   <img src="https://img.shields.io/badge/React%20Query-%23FF4154?style=flat-square&logo=React%20Query&logoColor=FF4154&labelColor=f9f9f9" />
   <img src="https://img.shields.io/badge/styled%20components-%23DB7093?style=flat-square&logo=styled-components&logoColor=%23DB7093&labelColor=f9f9f9">
   <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=%2306B6D4&labelColor=%23f9f9f9">
