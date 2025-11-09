@@ -12,7 +12,7 @@
 ### Languages
 <div>
   <img src="https://img.shields.io/badge/Typescript-%233178C6?style=flat-square&logo=Typescript&logoColor=%233178C6&labelColor=f9f9f9" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=%23F7DF1E&labelColor=f9f9f9" />
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=%233776AB&labelColor=f9f9f9" />
 </div>
 
 ### Frameworks & Libraries
@@ -23,15 +23,23 @@
   <br>
   <img src="https://img.shields.io/badge/zustand-%23FF0000?style=flat-square" />
   <img src="https://img.shields.io/badge/React%20Query-%23FF4154?style=flat-square&logo=React%20Query&logoColor=FF4154&labelColor=f9f9f9" />
+  <br>
   <img src="https://img.shields.io/badge/styled%20components-%23DB7093?style=flat-square&logo=styled-components&logoColor=%23DB7093&labelColor=f9f9f9">
-  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=%2306B6D4&labelColor=%23f9f9f9">
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=%2306B6D4&labelColor=%23f9f9f9">
+  <br>
+  <img src="https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=23009688&labelColor=f9f9f9" />
+  <img src="https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=235FA04E&labelColor=f9f9f9" />
+  <img src="https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=Express&logoColor=%23000000&labelColor=f9f9f9" />
+  <br>
+  <img src="https://img.shields.io/badge/docker-%232496ED?style=flat-square&logo=docker&logoColor=232496ED&labelColor=f9f9f9" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4?style=flat-square&logo=googlecloud&logoColor=234285F4&labelColor=f9f9f9" />
+  <img src="https://img.shields.io/badge/Amazon Web Services-%23000C1F?style=flat-square" />
 </div>
 
 ### Studying
 <div>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=764ABC&labelColor=f9f9f9" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=MongoDB&logoColor=%2347A248&labelColor=f9f9f9" />
-  <img src="https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=Express&logoColor=%23000000&labelColor=f9f9f9" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1?style=flat-square&logo=mysql&logoColor=234479A1&labelColor=f9f9f9" />
+  <img src="https://img.shields.io/badge/Redis-%23FF4438?style=flat-square&logo=redis&logoColor=%23FF4438&labelColor=f9f9f9" />
 </div>
 
 ### Tools
