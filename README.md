@@ -38,7 +38,7 @@
 
 ### Studying
 <div>
-  <img src="https://img.shields.io/badge/mysql-%234479A1?style=flat-square&logo=mysql&logoColor=234479A1&labelColor=f9f9f9" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=234479A1&labelColor=f9f9f9" />
   <img src="https://img.shields.io/badge/Redis-%23FF4438?style=flat-square&logo=redis&logoColor=%23FF4438&labelColor=f9f9f9" />
 </div>
 
